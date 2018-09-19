@@ -3,6 +3,10 @@
 }
 
 .nav-item > .nav-link.active  {
-    color: bisque;
+    color: rgba(137, 27, 228, 0.822);
+    background-color: cornsilk; 
 }
 
+.nav-item > .nav-link:hover  {
+    color: rgb(251, 255, 0);
+}
